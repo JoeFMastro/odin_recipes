@@ -1,0 +1,37 @@
+body {
+  font-family: "Times New Roman", "Garamond", "Georgia", serif;
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+
+.home {
+  max-width: 500px;
+  height: auto;
+  background: #ffffff;
+  margin: 250px auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+
+.title {
+  color: #2563eb;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 10px;
+}
+
+.list {
+  background: #f1f5f9;
+  padding: 15px 20px;
+  border-radius: 8px;
+  font-size: 24px;
+  margin-bottom: 8px;
+  list-style-position: inside;
+}
+
+.links {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
